@@ -1,7 +1,7 @@
 {
-  "name": "new-date",
+  "name": "@head.js/analytics.js-new-date",
   "description": "Creates a new Date, but accepts a few more input types than normal.",
-  "version": "1.0.2",
+  "version": "1.0.2-1",
   "keywords": [
     "new",
     "date",
@@ -11,16 +11,9 @@
   "scripts": {
     "test": "make test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/segmentio/new-date.git"
-  },
+  "repository": "https://github.com/nice-fungal/analytics.js-new-date",
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
-  "bugs": {
-    "url": "https://github.com/segmentio/new-date/issues"
-  },
-  "homepage": "https://github.com/segmentio/new-date#readme",
   "dependencies": {
     "@segment/isodate": "1.0.3"
   },
